@@ -130,4 +130,4 @@ else:
     st.info("Upload a file to see the conversion results.")
 
 st.markdown("---")
-st.markdown("Developed with ❤️ using Streamlit")
+st.markdown("Developed by RK")
